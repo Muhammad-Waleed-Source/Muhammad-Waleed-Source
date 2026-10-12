@@ -83,7 +83,7 @@ An AI-powered system designed to analyze vehicle damage from images and estimate
 ## 🌐 Connect With Me
 
 <p align="left">
-  <a href="https://muhammadwaleed-portfolio.netlify.app/" target="_blank">
+  <a href="https://muhammadwaleed.me/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-Visit-FF5533?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" />
   </a>
   <a href="https://www.linkedin.com/in/m-waleed124" target="_blank">
